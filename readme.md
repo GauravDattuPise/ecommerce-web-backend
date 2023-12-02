@@ -1,6 +1,6 @@
-## Ecommerce API with Node js
+# Ecommerce API with Node js
 
-#### Build an e-commerce platform using Node.js and Express.js where users can register and log in. Users can create and view a list of products. Users can create a cart for themselves, and later, they can add products to the cart. If products are available in the cart, users can place an order for those particular products. Users can also access the history of their product orders.
+### Build an e-commerce platform using Node.js and Express.js where users can register and log in. Users can create and view a list of products. Users can create a cart for themselves, and later, they can add products to the cart. If products are available in the cart, users can place an order for those particular products. Users can also access the history of their product orders.
 
 ## User Api's
 
