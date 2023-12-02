@@ -4,22 +4,22 @@
 
 ## User Api's
 
-User Registration (POST):
-Endpoint: https://ecommerce-web1-x89l.onrender.com/api/v1/user/register
-Description: Registers a new user.
-{
-    "name" : "Test",
-    "email" : "test@gmail.com",
-    "password" : "Test123@"
-}
+#### User Registration (POST):
+#### Endpoint: https://ecommerce-web1-x89l.onrender.com/api/v1/user/register
+#### Description: Registers a new user.
+#### {
+####     "name" : "Test",
+####     "email" : "test@gmail.com",
+####     "password" : "Test123@"
+#### }
 
-User Login (POST):
-Endpoint: https://ecommerce-web1-x89l.onrender.com/api/v1/user/login
-Description: Logs in a user and provides a token for authentication.
-{
-    "email" : "test@gmail.com",
-    "password" : "Test123@"
-}
+#### User Login (POST):
+#### Endpoint: https://ecommerce-web1-x89l.onrender.com/api/v1/user/login
+#### Description: Logs in a user and provides a token for authentication.
+#### {
+####     "email" : "test@gmail.com",
+####     "password" : "Test123@"
+#### }
 
 
 ## Category Api's
